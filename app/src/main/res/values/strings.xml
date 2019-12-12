@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">DroidBar</string>
+
+    //Login
+    <string name="usu">Usuario empleado</string>
+    <string name="pass">Contraseña</string>
+    <string name="login">Entrar</string>
+    <string name="errorUsu">Empleado no registrado</string>
+    <string name="snackMal">Usuario o contraseña incorrectos</string>
+    <string name="campoVacio">Debe completar los campos</string>
+
+    //MainActivity
+    <string name="comedor">Comedor</string>
+    <string name="barra">Barra</string>
+
+    //Navigation Drawer
+    <string name="titulo">Droid Bar</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+    <string name="history">Historial</string>
+    <string name="logout">Salir empleado</string>
+    <string name="snack">Login correcto</string>
+    <string name="title_activity_setting">Settings</string>
+
+    //Settings
+    <!-- Preference Titles -->
+    <string name="messages_title">Your settings</string>
+    <!-- Messages Preferences -->
+    <string name="url_title">Your URL</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="title_activity_ticket">Ticket</string>
+    <string name="mesaTV">Mesa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facturaTV">Factura</string>
+    <string name="totalTV">Total: </string>
+    <string name="btFin">Finalizar</string>
+    <string name="btComi">Comida</string>
+    <string name="btBebida">Bebida</string>
+    <string name="unidades">Unidades</string>
+    <string name="producto">Producto</string>
+    <string name="respSi">Si</string>
+    <string name="respNo">No</string>
+    <string name="title_secure">Finalizar factura</string>
+    <string name="message_secure">¿Estás seguro que quieres finalizar esta factura?</string>
+    <string name="title_print">Imprimir factura</string>
+    <string name="message_print">¿Imprimir factura?</string>
+
+    <string name="delete">Borrar comanda</string>
+    <string name="errorUsuVacio">El usuario no puede estar vacio</string>
+    <string name="errorPass">Contraseña incorrecta</string>
+    <string name="factura">Factura</string>
+    <string name="confirm">Confirmar</string>
+    <string name="tituloHistorial">Historial facturas</string>
+    <string name="noQuitar">Deslizar izquierda para borrar comanda</string>
+    <string name="noEditCommand">No se puede editar, comanda servida</string>
+    <string name="noDeleteCommand">No se puede borrar comanda servida</string>
+    <string name="contraseñaVacia">Contraseña no puede estar vacia</string>
+    <string name="tituloEmail">Enviar por Email</string>
+
+</resources>
